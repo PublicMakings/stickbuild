@@ -1,12 +1,13 @@
 # outline
 
-as it moves through the last section ovelaps more and more audio. as it descends near the begnining of the cycle it slows
+As it moves through the last section ovelaps more and more audio. as it descends near the begnining of the cycle it slows
 ```
 if clkstate < 10 & clkstate < lstclkstate
 if clkstate > 50 & clkstate > lstclkstate
 ```
 60 stops(*find the actual count*) at the quarter hours replay the mix between expanded field haraway cyborgs and nash.
-Run this through the markov perceptron.
+Run this through the markov perceptron.  
+Build word bank of search terms, perhaps check google n-grams?
 
 ## resources and programing components
 these two elements may offer some mutation of the voice... or perhaps via the OMG123 controls  
