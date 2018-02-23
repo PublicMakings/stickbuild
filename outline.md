@@ -39,6 +39,11 @@ these two elements may offer some mutation of the voice... or perhaps via the OM
 [freesound.org api](https://freesound.org/docs/api/#)  
 [archive.org nature samples](https://archive.org/details/NaturalSoundsFieldRecordingArchive)  
 [Library of Congress audio](https://www.loc.gov/audio/?fa=partof%3Acatalog%7Csubject%3Afield+recordings)  
+* [github explainer of LOC](https://github.com/LibraryOfCongress/data-exploration/blob/master/LOC.gov%20JSON%20API.ipynb)
+* [LOC JSON outline](https://libraryofcongress.github.io/data-exploration/)
+* [Audio from LOC](https://www.loc.gov/audio/?fa=access-restricted:false)
+* [LOC audio collections](https://www.loc.gov/audio/collections/)
+* [search audio at LOC](https://www.loc.gov/audio/?fa=partof%3Acatalog%7Csubject%3Afield+recordings)
 [Fulcrum search Media](https://github.com/fulcrumapp/fulcrum-python)*complex, not quite sure about how to apply this tool*  
 [Rest API](https://www.twilio.com/docs/api/video/recordings-resource)*too complicated*  
 
