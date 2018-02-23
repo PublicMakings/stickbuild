@@ -14,6 +14,9 @@ wind in the trees on one within 5 steps eiether way
 * run these as grammars?
 
 All of this has a tie into a weather api...?
+* mod the search set towards a bias on sunny, rainy, cloudy
+* __make this pull on button press__
+* 3 different arrays
 
 Build word bank of search terms, perhaps check google n-grams?
 
@@ -25,9 +28,12 @@ Build word bank of search terms, perhaps check google n-grams?
 these two elements may offer some mutation of the voice... or perhaps via the OMG123 controls  
 [voice mod for audio](http://planet-geek.com/2015/10/29/hacks/using-a-raspberry-pi-as-a-realtime-voice-changer-for-halloween/)
 [make pi speak](https://www.dexterindustries.com/howto/make-your-raspberry-pi-speak/), a different tty, perhaps a better choice than google.
+
 ### [freesound](https://freesound.org/docs/api/resources_apiv2.html#other-resources)
 * [video overview](https://www.youtube.com/watch?v=F3RB_4GCFds)
 
+---
+---
 ## databases
 [freesound.org api](https://freesound.org/docs/api/#)  
 [archive.org nature samples](https://archive.org/details/NaturalSoundsFieldRecordingArchive)  
@@ -43,11 +49,11 @@ these two elements may offer some mutation of the voice... or perhaps via the OM
 ## audio
 > [Grimm fairy tales](https://archive.org/details/grimms_english_librivox)  
 > [Aesop](https://archive.org/details/aesop_fables_volume_one_librivox)  
-> [Shelly's Frankenstein](https://archive.org/details/frankenstein_shelley)
-> [English Fairy Tales](https://archive.org/details/english_fairy_tales_joy_librivox)
-> [More Aesop](https://archive.org/details/aesop_fables_volume_three_librivox)
-> [Analyze Poeple](https://archive.org/details/analyze_people_on_sight_1105_librivox)
-> [Leaves of Grass](https://archive.org/details/leaves_of_grass_librivox)
-> [Origin of Species](https://archive.org/details/origin_species_librivox)
-> [La Fountaine Fables](https://archive.org/details/fables_lafontaine_01_librivox)
-> [Paradise lost](https://archive.org/details/paradise_lost_08083_librivox)
+> [Shelly's Frankenstein](https://archive.org/details/frankenstein_shelley)  
+> [English Fairy Tales](https://archive.org/details/english_fairy_tales_joy_librivox)  
+> [More Aesop](https://archive.org/details/aesop_fables_volume_three_librivox)  
+> [Analyze Poeple](https://archive.org/details/analyze_people_on_sight_1105_librivox)  
+> [Leaves of Grass](https://archive.org/details/leaves_of_grass_librivox)  
+> [Origin of Species](https://archive.org/details/origin_species_librivox)  
+> [La Fountaine Fables](https://archive.org/details/fables_lafontaine_01_librivox)  
+> [Paradise lost](https://archive.org/details/paradise_lost_08083_librivox)  
