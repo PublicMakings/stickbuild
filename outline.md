@@ -6,14 +6,27 @@ if clkstate < 10 & clkstate < lstclkstate
 if clkstate > 50 & clkstate > lstclkstate
 ```
 60 stops(*find the actual count*) at the quarter hours replay the mix between expanded field haraway cyborgs and nash.
-Run this through the markov perceptron.  
+Run this through the markov perceptron, wilderness act? Swedish forestry laws. Then in the detents around the dial in clude some intentional walking sounds... that travel, fade up and then drop out.
+
+wind in the trees on one within 5 steps eiether way
+* list contents
+* index
+* run these as grammars?
+
+All of this has a tie into a weather api...?
+
 Build word bank of search terms, perhaps check google n-grams?
+
+
+
+
 
 ## resources and programing components
 these two elements may offer some mutation of the voice... or perhaps via the OMG123 controls  
 [voice mod for audio](http://planet-geek.com/2015/10/29/hacks/using-a-raspberry-pi-as-a-realtime-voice-changer-for-halloween/)
 [make pi speak](https://www.dexterindustries.com/howto/make-your-raspberry-pi-speak/), a different tty, perhaps a better choice than google.
-
+### [freesound](https://freesound.org/docs/api/resources_apiv2.html#other-resources)
+* [video overview](https://www.youtube.com/watch?v=F3RB_4GCFds)
 
 ## databases
 [freesound.org api](https://freesound.org/docs/api/#)  
