@@ -40,8 +40,14 @@ these two elements may offer some mutation of the voice... or perhaps via the OM
 * [Soundcities projects](http://www.soundcities.com/info.php)
 
 ## Direct Links
-
-## videos
-
 ## audio
-
+> [Grimm fairy tales](https://archive.org/details/grimms_english_librivox)  
+> [Aesop](https://archive.org/details/aesop_fables_volume_one_librivox)  
+> [Shelly's Frankenstein](https://archive.org/details/frankenstein_shelley)
+> [English Fairy Tales](https://archive.org/details/english_fairy_tales_joy_librivox)
+> [More Aesop](https://archive.org/details/aesop_fables_volume_three_librivox)
+> [Analyze Poeple](https://archive.org/details/analyze_people_on_sight_1105_librivox)
+> [Leaves of Grass](https://archive.org/details/leaves_of_grass_librivox)
+> [Origin of Species](https://archive.org/details/origin_species_librivox)
+> [La Fountaine Fables](https://archive.org/details/fables_lafontaine_01_librivox)
+> [Paradise lost](https://archive.org/details/paradise_lost_08083_librivox)
