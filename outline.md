@@ -20,6 +20,10 @@ All of this has a tie into a weather api...?
 
 Build word bank of search terms, perhaps check google n-grams?
 
+### PRELOAD 
+load sections of audio at a time because of the lag... base selection preloaded
+prehaps a start conidtion on button press, which loads a selection for right or left spinning.
+
 
 
 
