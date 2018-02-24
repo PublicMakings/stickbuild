@@ -32,6 +32,7 @@ these two elements may offer some mutation of the voice... or perhaps via the OM
 ### [freesound](https://freesound.org/docs/api/resources_apiv2.html#other-resources)
 * [video overview](https://www.youtube.com/watch?v=F3RB_4GCFds)
 * [Python interface](https://github.com/MTG/freesound-python)
+* __[Freesound Labs](https://labs.freesound.org/tag/freesound-api/)__ *soooo coool*
 
 ---
 ---
